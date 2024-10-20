@@ -34,8 +34,8 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "authorname": "𝐀𝐒𝐈𝐅 𝐱𝟔𝟗",
-  "authorFB": "https://www.facebook.com/4S1F.403",
+  "authorname": "Itachi",
+  "authorFB": "",
   "vipUser": [
     "100083900196039",
     "100086971370548"
@@ -61,7 +61,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "۞𝐀𝐒𝐈𝐅 𝐱𝟔𝟗۞",
+  "nickNameBot": "۞Itachi۞",
   "prefix": ".",
   "database": {
     "type": "mongodb",
